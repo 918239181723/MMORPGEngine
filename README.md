@@ -152,7 +152,6 @@
 - **Load Time:** <30 seconds
 - **Network:** <1MB/min bandwidth
 
-## 🗃️ Database Tasarımı
 
 ### Ana Tablolar
 ```sql
@@ -204,43 +203,6 @@ MMORPGEngine/
     └── Technical/         # Teknik spesifikasyonlar
 ```
 
-## ⚡ Hızlı Başlangıç Planı
 
-### Bu Hafta:
-1. Basic TCP server/client (yukarıdaki kodlar)
-2. Message protokolü tasarımı
-3. GitHub repo organizasyonu
 
-### Gelecek Hafta:
-1. Database bağlantısı
-2. User authentication
-3. Basic character sistemi
 
-### Bu Ay:
-1. Çalışan login/logout sistemi
-2. Basic chat
-3. Simple character movement
-
-## 🤝 İş Bölümü Önerisi
-
-**Sen odaklanabilirsin:**
-- Game design kararları
-- Test etme
-- Bug raporlama
-- Feature istekleri
-
-**Ben yardım edebilirim:**
-- Kod yazma
-- Mimari tasarım
-- Problem çözme
-- Optimizasyon
-
-## ❓ Netleştirilmesi Gerekenler
-
-1. **Oyun Türü:** Daha spesifik ne tür MMORPG? (Fantasy/Sci-fi/Modern?)
-2. **Grafik Stili:** 2D/3D? Realistic/Stylized?
-3. **Monetization:** F2P/P2P? Subscription model?
-4. **Platform:** Sadece PC? Console support?
-5. **Takım:** Tek kişi mi yoksa ekip kuracak mısın?
-
-Bu planı nasıl buluyorsun? Hangi kısımları değiştirmek/eklemek istersin?
